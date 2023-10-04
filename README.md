@@ -9,23 +9,19 @@
  - Na seção inicial o usuário ele ira navegar direto para a pagina de apresentação do petshop, onde encontrara os contatos para agendar o tipo de atendimento que desejar;
 
  - Ao navegar pela seção da clínica o usuário terá um detalhamento dos seguites tipos de atendimento:
- - 
- Consultas de rotinas e exames de saúde abrangentes;
+  
+ - Consultas de rotinas e exames de saúde abrangentes;
 
- Vacinação e iminização;
+ - Vacinação e iminização;
 
- Cirurgias e procedimentos veterinários;
+ - Cirurgias e procedimentos veterinários;
 
- Tratamento e controle de doenças;
+ - Tratamento e controle de doenças;
 
- Odontologia veterinária;
+ - Odontologia veterinária;
 
- Atendimento de emergência 24 horas;
+ - Atendimento de emergência 24 horas;
 
- Nutrição e aconselhamento alimentar personalizado.
-
- 
+ - Nutrição e aconselhamento alimentar personalizado.
 
  
- 
-
