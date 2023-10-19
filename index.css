@@ -128,8 +128,8 @@ h1, h2{
     border-radius: 0 0 8px 8px;
     margin-top: -8px;
     padding: 0 24px;
-    height: 0;
-    opacity: 0;
+    /*height: 0;*/
+    /*opacity: 0;*/
     overflow: hidden;
     transition: .2s;
 }
@@ -168,7 +168,7 @@ footer p{
 
  footer p a{
     text-decoration: none;
-    color: #FF527E;
+    color: #1f045a;
  }
 
  footer div{
@@ -176,7 +176,7 @@ footer p{
  }
 
 Copyright a{
-    color: #FF527E;
+    color: #094838;
  }
 
 .Copyright{
