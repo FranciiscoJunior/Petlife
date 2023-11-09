@@ -4,8 +4,9 @@
     margin: 0;
     padding: 0;
 }
+
 body{
-    color: #263138;
+    color: hsl(203, 19%, 18%);
 }
 
 header {
@@ -97,14 +98,14 @@ h1, h2{
     margin: 0 auto;
 }
 
-#duvidas {
+#duvidas{
     display: flex;
     align-items: center;
     gap: 64px;
     padding: 64px 80px;
 }
 
-.duvida {
+.duvida{
     position: relative;
 }
 
@@ -116,20 +117,20 @@ h1, h2{
 }
 
 .duvida img{
-    position: relative;
+    position: absolute;
     top: 32px;
     right: 24px;
 }
 
 .duvida .paragrafo{
-    border-width: 1px solid #f8c6af;
+    border-right: 1px solid #f8c6af;
     border-bottom: 1px solid #f8c6af;
     border-left: 1px solid #f8c6af;
     border-radius: 0 0 8px 8px;
     margin-top: -8px;
-    padding: 0 24px;
-    /*height: 0;*/
-    /*opacity: 0;*/
+    padding: 24px;
+    /*height: 0;
+    opacity: 0;*/
     overflow: hidden;
     transition: .2s;
 }
