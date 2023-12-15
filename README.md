@@ -1,33 +1,53 @@
 # Petlife
 
- # - Site de petshop desenvolvido com HTML5, CSS3 e javascript;
+Esse Projeto é de uma clínica de petshop, que está dividida por setores, clinica, farmácia e a sessão de dúvidas.
 
- - Esse sistema foi criado com intuito de mostrar diversos setores de uma clinica veterinária, para ser mais exato de um petshop;
+## Roadmap
 
- - Dentro do site existe o home que é a seção de navegação que é composta da parte Início, a Clínica, Farmácia e por fim a seção de Dúvidas;
+- Ainda será aplicada a responsividade para ser acessado por diferentes dispositivos.
 
- - Na seção inicial o usuário ele ira navegar direto para a pagina de apresentação do petshop, onde encontrara os contatos para agendar o tipo de atendimento que desejar;
+- Disponivel para ser acessado on-line.
 
- # - Ao navegar pela seção da clínica o usuário terá um detalhamento dos seguites tipos de atendimento:
-  
- - Consultas de rotinas e exames de saúde abrangentes;
+## Deploy
 
- - Vacinação e iminização;
+Para fazer o deploy desse projeto rode
 
- - Cirurgias e procedimentos veterinários;
+```bash
+  npm run deploy
+```
 
- - Tratamento e controle de doenças;
+https://petlife-orpin.vercel.app/
 
- - Odontologia veterinária;
+## Stacks utilizada
 
- - Atendimento de emergência 24 horas;
+**Front-end:** HTML5, CSS3, JavaScript.
 
- - Nutrição e aconselhamento alimentar personalizado.
+## Autores
 
- # - Venha conferir o nosso petshop Farmácia!
+- [@FranciiscoJunior](https://github.com/FranciiscoJunior)
 
- - Na nossa farmácia, você encontrará uma variedade de medicamentos, produtos de cuidados e suplementos recomendados pelo nosssos veterinários, garantindo bem-estar e a saúde do seu amado pet estejam sempre em boas mãos. 
+## Rodando localmente
 
-# - Ficou alguma duvida?
+Clone o projeto
 
-- Em cada uma das seções, o usuário ao clicar na perguntas terá um texto direcionado a cada uma das duvidas.
+```bash
+  git clone https://github.com/FranciiscoJunior/Petlife
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
