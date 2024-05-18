@@ -169,7 +169,7 @@ footer p{
 
  footer p a{
     text-decoration: none;
-    color: #1f045a;
+    color: blue;
  }
 
  footer div{
@@ -183,6 +183,6 @@ Copyright a{
 .Copyright{
     background-color: #263138;
     color: #FFFFFF;
-    padding: 24px;
+    padding: 20px;
     text-align: center;
  }

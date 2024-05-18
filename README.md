@@ -6,7 +6,7 @@ Esse Projeto é de uma clínica de petshop, que está dividida por setores, clin
 
 - Ainda será aplicada a responsividade para ser acessado por diferentes dispositivos.
 
-- Disponivel para ser acessado on-line por dispositivos desktops.
+- Disponivel apenas para ser acessado on-line por dispositivos desktops.
 
 ## Deploy
 
