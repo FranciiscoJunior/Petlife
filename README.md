@@ -1,14 +1,14 @@
-# Pet-life
+# 💻 Pet-life
 
 Esse Projeto é de uma clínica de petshop, que está dividida por setores, clinica, farmácia e a sessão de dúvidas.
 
-## Roadmap
+## 🚀 Roadmap
 
 - Ainda será aplicada a responsividade para ser acessado por diferentes dispositivos.
 
 - Disponivel apenas para ser acessado on-line por dispositivos desktops.
 
-## Deploy
+## 🌐 Deploy
 
 Para fazer o deploy desse projeto rode
 
@@ -18,11 +18,11 @@ Para fazer o deploy desse projeto rode
 
 https://petlife-orpin.vercel.app/
 
-## Stacks utilizada
+## ⚙️ Stacks utilizada
 
 **Front-end:** HTML5, CSS3, JavaScript.
 
-## Autores
+## 👨‍💻 Autores
 
 - [@FranciiscoJunior](https://github.com/FranciiscoJunior)
 
